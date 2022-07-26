@@ -26,6 +26,9 @@ now type following command to get into container (php-apache) and execute comman
  <br>
   <br>
   **NOTE**
+  may be you need following commands so typing here for your ease
+  **chown -R 33:33 storage** (type this command inside container the way u typed above commands)
+  **composer config --global process-timeout 20000**
 if you want to install more extensions for php, thn follow online guide of docker php for more extensions installation in docker php its very easy, 
 enjoy :) 
 #withoutlaravelsaildocker
