@@ -11,7 +11,7 @@ now install Docker desktop from official website of docker <br>
 open cmd (like git bash etc)  <br>
 type following commands  <br>
 **docker compose build** <br>
-after above command you wait untill it finishes  <br>
+after above command wait untill it finishes  <br>
 type this new command  <br>
 **docker compose up -d** <br>
 wait untill above command finishes <br>
